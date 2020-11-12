@@ -1,0 +1,12 @@
+{
+   "locales": [
+      {
+         "isDefault": true,
+         "displayName": "en",
+         "urlPrefix": "",
+         "appLanguage": "en-US",
+         "crystallizeCatalogueLanguage": "en",
+         "priceVariant": "default"
+      }
+   ]
+}
